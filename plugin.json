@@ -1,0 +1,32 @@
+{
+  "name": "siyuan-plugin-embedding-html",
+  "author": "muhanstudio",
+  "url": "https://github.com/muhanstudio/siyuan-plugin-embedding-html",
+  "version": "0.2.0",
+  "minAppVersion": "2.10.14",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "all"
+  ],
+  "displayName": {
+    "en_US": "HTML embedder",
+    "zh_CN": "HTML嵌入器"
+  },
+  "description": {
+    "en_US": "Easily embed HTML from Siyuan library in iframes in documents and provide a full-screen button in the upper-right corner of all iframe content blocks",
+    "zh_CN": "在文档中便捷的以iframe的方式嵌入思源库中的HTML，并给所有的iframe内容块儿右上角提供一个全屏按键"
+  },
+  "readme": {
+    "en_US": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "custom": [
+    ]
+  },
+  "keywords": [
+    "HTML", "HTML embedder", "HTML嵌入器"
+  ]
+}
